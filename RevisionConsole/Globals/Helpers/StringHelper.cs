@@ -1,4 +1,4 @@
-﻿using RevisionConsole.Globals.ReturnTypes;
+﻿using RevisionConsole.Globals.ResultClasses;
 using System;
 
 namespace RevisionConsole.Globals.Helpers

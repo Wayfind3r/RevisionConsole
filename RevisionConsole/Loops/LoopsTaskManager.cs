@@ -1,5 +1,5 @@
 ﻿using RevisionConsole.Globals;
-using RevisionConsole.Globals.ReturnTypes;
+using RevisionConsole.Globals.ResultClasses;
 using System;
 using System.Collections.Generic;
 using Task16 = RevisionConsole.Loops.Task16GenerateAndScrambleNumbers;

@@ -46,7 +46,7 @@
     <Compile Include="Globals\BaseIdentifier.cs" />
     <Compile Include="Globals\Helpers\ConsoleHelper.cs" />
     <Compile Include="Globals\Helpers\StringHelper.cs" />
-    <Compile Include="Globals\ReturnTypes.cs" />
+    <Compile Include="Globals\ResultClasses.cs" />
     <Compile Include="Globals\Task.cs" />
     <Compile Include="Globals\TaskManager.cs" />
     <Compile Include="InterviewTasks\InterviewTaskManager.cs" />
